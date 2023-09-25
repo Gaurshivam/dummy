@@ -1,0 +1,27 @@
+.RecipeMain{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 10px;
+    width: 40vw;
+    font-size: 1.2rem;
+}
+
+p{
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Searchbtn{
+    margin: auto;
+}
+
+.Searchbtn > button{
+    padding: 10px;
+    width: 5vw;
+    font-size: 1.2rem;
+}
